@@ -33,6 +33,8 @@ Users cannot fake or change their commitment afterward.
 https://stellar.expert/explorer/testnet/contract/CBH3LI2KJYQBUJ6S7RHAG6F6FLCAV2NJRTPPCSKSHNZK32ZNUSHLOCCR
 
 Contract's screenshot![screenshot](![screenshot](Screenshot 2026-04-23 161137.png)
+<img width="1832" height="911" alt="image" src="https://github.com/user-attachments/assets/cd502f31-6b4e-4409-a623-c8cfa9ac01fb" />
+
 # Future scopes
 Verifier Integration
 Add a third-party verifier (admin) to confirm real-world actions before refund.
